@@ -15,7 +15,7 @@ function start(client) {
 
     // الردود على الأسئلة الشائعة
     const faqResponses = {
-      hi: "Hello! How can I help you today? 👋",
+      hi: "مرحبا! كيف يمكنني مساعدتك اليوم؟",
       "what are your working hours?":
         "Our working hours are from 9 AM to 5 PM, Monday to Friday.",
       "how can i contact support?":
